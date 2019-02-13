@@ -44,7 +44,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 495.0, 35.0, 221.0, 47.0 ],
+					"patching_rect" : [ 495.0, 35.0, 225.0, 47.0 ],
 					"text" : "2. Waveform through an envelope (low - you probably won't her it in your laptop speakers)"
 				}
 
@@ -362,8 +362,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 844.0, 331.0, 125.0, 22.0 ],
-					"text" : "open copeland_2.wav"
+					"patching_rect" : [ 844.0, 331.0, 127.0, 22.0 ],
+					"text" : "open copeland_2.mp3"
 				}
 
 			}
@@ -420,8 +420,8 @@
 					"numinlets" : 2,
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
-					"patching_rect" : [ 143.0, 310.0, 119.0, 22.0 ],
-					"text" : "open slow_bells.wav"
+					"patching_rect" : [ 143.0, 310.0, 121.0, 22.0 ],
+					"text" : "open slow_bells.mp3"
 				}
 
 			}
